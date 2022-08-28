@@ -1,5 +1,6 @@
 {
   "name": "redux-cart-shop",
+  "homepage": "https://hakkee94.github.io/redux-cart-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
