@@ -1,3 +1,18 @@
 * {
   margin: 0;
 }
+
+article {
+  display: flex;
+  align-items: center;
+}
+
+p {
+  display: flex;
+  align-items: center;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+}
